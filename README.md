@@ -23,4 +23,9 @@ I am a passionate and detail-oriented aspiring data analyst with strong foundati
 
 ---
 
+## 📫 Let's Connect!
 
+I'm actively seeking full-time data analyst roles and am always open to discussing data, opportunities, or collaboration.
+
+*   **LinkedIn:** [www.linkedin.com/in/kai-nyein-104716361](link)
+*   **Email** AungKai501@gmail.com
