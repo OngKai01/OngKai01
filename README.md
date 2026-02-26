@@ -21,6 +21,7 @@ I am a passionate and detail-oriented aspiring data analyst with strong foundati
 - **Google Powerpoint** - Color and Branding, Collaboration Features, Slide Architecture
 - **Statistics** (Hypothesis Testing, A/B Testing, Regression Analysis)
 - I am really pround of this Dashboard I just made for my personal project:
+
   <img width="1487" height="803" alt="image" src="https://github.com/user-attachments/assets/73f7cbc0-37a9-49d8-ade3-80224ece70bd" />
 
 ---
